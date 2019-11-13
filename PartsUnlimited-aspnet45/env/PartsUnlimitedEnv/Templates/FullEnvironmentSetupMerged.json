@@ -267,7 +267,7 @@
                             "default": "1"
                         },
                         "rules": [
-                            {
+                            /*{
                                 "metricTrigger": {
                                     "metricName": "CpuPercentage",
                                     "metricResourceUri": "[concat(resourceGroup().id, '/providers/Microsoft.Web/serverfarms/', parameters('PUL_HostingPlanName'))]",
@@ -302,7 +302,7 @@
                                     "value": "1",
                                     "cooldown": "PT1H"
                                 }
-                            }
+                            }*/
                         ]
                     }
                 ],
