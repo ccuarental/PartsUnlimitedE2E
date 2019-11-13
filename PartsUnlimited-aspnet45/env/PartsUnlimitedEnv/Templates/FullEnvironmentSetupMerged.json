@@ -70,21 +70,6 @@
     "ActionGroupShortName": {
       "type": "string",
       "defaultValue": "Alert Owners"
-    },
-    "CdnStorageContainerName": {
-      "type": "string"
-    },
-    "CdnStorageAccountNameForDev": {
-      "type": "string"
-    },
-    "CdnStorageContainerNameForDev": {
-      "type": "string"
-    },
-    "CdnStorageAccountNameForStaging": {
-      "type": "string"
-    },
-    "CdnStorageContainerNameForStaging": {
-      "type": "string"
     }
   },
   "variables": {
