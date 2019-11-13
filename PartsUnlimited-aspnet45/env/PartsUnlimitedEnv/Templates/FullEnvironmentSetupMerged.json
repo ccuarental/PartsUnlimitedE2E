@@ -59,6 +59,15 @@
     "EnableRules": {
       "type": "bool",
       "defaultValue": false
+    },
+    
+    "ActionGroupName": {
+      "type": "string",
+      "defaultValue": "AlertResourceOwners"
+    },
+    "ActionGroupShortName": {
+      "type": "string",
+      "defaultValue": "AlertOwners"
     }
   },
   "variables": {
