@@ -59,10 +59,7 @@
     "EnableRules": {
       "type": "bool",
       "defaultValue": false
-    },
-    "CdnStorageAccountName": {
-      "type": "string"
-    },
+    },    
     "ActionGroupName": {
       "type": "string",
       "defaultValue": "Alert Resource Owners"
